@@ -8,6 +8,9 @@ public class Resep {
         System.out.println("2. keju mojarela");
         System.out.println("2. salad");
         System.out.println("2. acar");
+        System.out.println("2. acar");
+        System.out.println("2. acar");
+        
     }
 
 }
